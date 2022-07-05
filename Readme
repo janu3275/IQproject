@@ -1,0 +1,7 @@
+MAP web application 
+Deployed - https://profound-kitten-76aa27.netlify.app/
+
+Shows your last 10 locations as well as 1000 restraunts locations near you.
+
+
+1000 location data for restraunts are taken randonmly from the current users position. ( They are not real time data ).
